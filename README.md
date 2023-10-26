@@ -32,4 +32,4 @@ The questions that are answered using the SQL Queries are mentioned below:
 
 15.Median annual salary increment department wise.
 
-#Note : The attached employees_schema.sql and employee_dump.sql files are used for performing this data analysis task.
+#### Note : The attached employees_schema.sql and employee_dump.sql files are used for performing this data analysis task.
